@@ -1,0 +1,15 @@
+C:\Users\Atrina\source\repos\RandomNumberFileWriter\RandomNumberFileWriter\bin\Debug\net6.0\RandomNumberFileWriter.exe
+C:\Users\Atrina\source\repos\RandomNumberFileWriter\RandomNumberFileWriter\bin\Debug\net6.0\RandomNumberFileWriter.deps.json
+C:\Users\Atrina\source\repos\RandomNumberFileWriter\RandomNumberFileWriter\bin\Debug\net6.0\RandomNumberFileWriter.runtimeconfig.json
+C:\Users\Atrina\source\repos\RandomNumberFileWriter\RandomNumberFileWriter\bin\Debug\net6.0\RandomNumberFileWriter.dll
+C:\Users\Atrina\source\repos\RandomNumberFileWriter\RandomNumberFileWriter\bin\Debug\net6.0\RandomNumberFileWriter.pdb
+C:\Users\Atrina\source\repos\RandomNumberFileWriter\RandomNumberFileWriter\obj\Debug\net6.0\RandomNumberFileWriter.csproj.AssemblyReference.cache
+C:\Users\Atrina\source\repos\RandomNumberFileWriter\RandomNumberFileWriter\obj\Debug\net6.0\RandomNumberFileWriter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Atrina\source\repos\RandomNumberFileWriter\RandomNumberFileWriter\obj\Debug\net6.0\RandomNumberFileWriter.AssemblyInfoInputs.cache
+C:\Users\Atrina\source\repos\RandomNumberFileWriter\RandomNumberFileWriter\obj\Debug\net6.0\RandomNumberFileWriter.AssemblyInfo.cs
+C:\Users\Atrina\source\repos\RandomNumberFileWriter\RandomNumberFileWriter\obj\Debug\net6.0\RandomNumberFileWriter.csproj.CoreCompileInputs.cache
+C:\Users\Atrina\source\repos\RandomNumberFileWriter\RandomNumberFileWriter\obj\Debug\net6.0\RandomNumberFileWriter.dll
+C:\Users\Atrina\source\repos\RandomNumberFileWriter\RandomNumberFileWriter\obj\Debug\net6.0\refint\RandomNumberFileWriter.dll
+C:\Users\Atrina\source\repos\RandomNumberFileWriter\RandomNumberFileWriter\obj\Debug\net6.0\RandomNumberFileWriter.pdb
+C:\Users\Atrina\source\repos\RandomNumberFileWriter\RandomNumberFileWriter\obj\Debug\net6.0\RandomNumberFileWriter.genruntimeconfig.cache
+C:\Users\Atrina\source\repos\RandomNumberFileWriter\RandomNumberFileWriter\obj\Debug\net6.0\ref\RandomNumberFileWriter.dll

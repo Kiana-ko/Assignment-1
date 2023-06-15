@@ -1,0 +1,15 @@
+C:\Users\Atrina\source\repos\FileReader\FileReader\bin\Debug\net6.0\FileReader.exe
+C:\Users\Atrina\source\repos\FileReader\FileReader\bin\Debug\net6.0\FileReader.deps.json
+C:\Users\Atrina\source\repos\FileReader\FileReader\bin\Debug\net6.0\FileReader.runtimeconfig.json
+C:\Users\Atrina\source\repos\FileReader\FileReader\bin\Debug\net6.0\FileReader.dll
+C:\Users\Atrina\source\repos\FileReader\FileReader\bin\Debug\net6.0\FileReader.pdb
+C:\Users\Atrina\source\repos\FileReader\FileReader\obj\Debug\net6.0\FileReader.csproj.AssemblyReference.cache
+C:\Users\Atrina\source\repos\FileReader\FileReader\obj\Debug\net6.0\FileReader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Atrina\source\repos\FileReader\FileReader\obj\Debug\net6.0\FileReader.AssemblyInfoInputs.cache
+C:\Users\Atrina\source\repos\FileReader\FileReader\obj\Debug\net6.0\FileReader.AssemblyInfo.cs
+C:\Users\Atrina\source\repos\FileReader\FileReader\obj\Debug\net6.0\FileReader.csproj.CoreCompileInputs.cache
+C:\Users\Atrina\source\repos\FileReader\FileReader\obj\Debug\net6.0\FileReader.dll
+C:\Users\Atrina\source\repos\FileReader\FileReader\obj\Debug\net6.0\refint\FileReader.dll
+C:\Users\Atrina\source\repos\FileReader\FileReader\obj\Debug\net6.0\FileReader.pdb
+C:\Users\Atrina\source\repos\FileReader\FileReader\obj\Debug\net6.0\FileReader.genruntimeconfig.cache
+C:\Users\Atrina\source\repos\FileReader\FileReader\obj\Debug\net6.0\ref\FileReader.dll
